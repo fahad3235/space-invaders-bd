@@ -2,7 +2,7 @@
 
 A free, fully offline, bilingual (Bangla / English) Space Invaders-style arcade shooter. Defend Earth from a marching fleet of 50 invaders, hide behind destructible shields, and shoot the mystery UFO for bonus points. No account, no network, no ads — your best score lives only on your device.
 
-> Factory run #260 — built 2026-11-07 (09:00 Asia/Dhaka slot).
+> Factory run #261 — built 2026-11-07 (09:00 Asia/Dhaka slot).
 
 ## Features
 
